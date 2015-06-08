@@ -1,0 +1,70 @@
+English/FranÃ§ais
+
+[English]
+----------
+
+SIAI-Marchetti S.205R
+=====================
+
+Manufacturer                  :
+Type                          :
+Year                          :
+Powerplant                    :
+Wingspan                      :
+Length                        :
+Height                        :
+weight max                    :
+Cruise speed                  :
+Range                         :
+Crew                          :
+
+Some useful keys:
+=================
+
+Thanks
+======
+
+===============
+BARANGER Emmanuel
+June, 08, 2015
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
+
+
+[Français]
+----------
+
+Un peu d'histoire
+=================
+
+SIAI-Marchetti S.205R
+=====================
+
+Constructeur                  :
+Type                          :
+Année                         :
+Moteur                        :
+Envergure                     :
+Longueur                      :
+Hauteur                       :
+Poids max au décollage        :
+Vitesse estimée de croisière  :
+Autonomie estimée             :
+Equipage                      :
+
+
+Quelques touches utiles :
+=========================
+
+Remerciements
+=============
+
+===============
+BARANGER Emmanuel
+08 Juin 2015
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
